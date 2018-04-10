@@ -1,0 +1,10 @@
+/Users/fredrickthornton/_dev/azure/phitus_leads/bin/Debug/netcoreapp2.0/phitus_leads.deps.json
+/Users/fredrickthornton/_dev/azure/phitus_leads/bin/Debug/netcoreapp2.0/phitus_leads.runtimeconfig.json
+/Users/fredrickthornton/_dev/azure/phitus_leads/bin/Debug/netcoreapp2.0/phitus_leads.runtimeconfig.dev.json
+/Users/fredrickthornton/_dev/azure/phitus_leads/bin/Debug/netcoreapp2.0/phitus_leads.dll
+/Users/fredrickthornton/_dev/azure/phitus_leads/bin/Debug/netcoreapp2.0/phitus_leads.pdb
+/Users/fredrickthornton/_dev/azure/phitus_leads/obj/Debug/netcoreapp2.0/phitus_leads.csproj.CoreCompileInputs.cache
+/Users/fredrickthornton/_dev/azure/phitus_leads/obj/Debug/netcoreapp2.0/phitus_leads.AssemblyInfoInputs.cache
+/Users/fredrickthornton/_dev/azure/phitus_leads/obj/Debug/netcoreapp2.0/phitus_leads.AssemblyInfo.cs
+/Users/fredrickthornton/_dev/azure/phitus_leads/obj/Debug/netcoreapp2.0/phitus_leads.dll
+/Users/fredrickthornton/_dev/azure/phitus_leads/obj/Debug/netcoreapp2.0/phitus_leads.pdb
